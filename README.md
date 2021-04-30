@@ -3,6 +3,21 @@
 <img src="https://i.ibb.co/C7VT8dR/developer-guide-blog-2.png" alt="">
 
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
+</br>
+<h1>Career Objective</h1>
+
+<p>To gain confidence and fame using my potential in the field of “Web Development”, and express my innovative creative skills for self and company growth.</P>
+</br>
+
+<h1>Front End Development and Backend Development</h1>
+ <p>☞ Sound knowledge of the Javascript,  HTML,  CSS, Bootstrap, Java Script, React Js, React Bootstrap, Material-UI etc </br>
+ <span>☞ Ability to develop and design webpages and websites to make them functional.</span> </br>
+ <span>☞ Knowledge of the international web standards and protocols and experience to work with in the compliance.</span>
+
+</p>
+ 
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrahim88&label=Profile%20views&color=0e75b6&style=flat" alt="asrahim88" /> </p>
 
