@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/C7VT8dR/developer-guide-blog-2.png" alt="">
 
-<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
+<h3 align="center">A passionate frontend and Backend developer from Dhaka, Bangladesh</h3>
 </br>
 <h1>Career Objective</h1>
 
