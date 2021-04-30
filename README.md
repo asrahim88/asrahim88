@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋.. </br>  I'm Abdur Rahim</h1>
+
+<img src="https://i.ibb.co/C7VT8dR/developer-guide-blog-2.png" alt="">
+
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrahim88&label=Profile%20views&color=0e75b6&style=flat" alt="asrahim88" /> </p>
@@ -7,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [CarTradeWebSite](https://fresh-valley-a6c4a.web.app/)
+- 🌐 This is CarTrade web site.That is created by me and The live link is heare.  [CarTradeWebSite](https://fresh-valley-a6c4a.web.app/)
 
-- 👯 I’m looking to collaborate on [TechRepaiService](https://completewebsite-7057a.web.app/)
+- 🌐 This is ThechReapairService web site.That is created by me and The live link is heare.  [TechRepaiService](https://completewebsite-7057a.web.app/)
 
-- 🤝 I’m looking for help with [EarlyRiders](https://react-auth-135a7.web.app/)
+- 🌐 This is EarlyRiders web site.That is created by me and The live link is heare.  [EarlyRiders](https://react-auth-135a7.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
