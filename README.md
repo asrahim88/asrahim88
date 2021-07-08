@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋.. </br>  I'm Abdur Rahim</h1>
+
 
 <img src="https://i.ibb.co/3z99qBx/developer-guide-blog-2-1-6.png" alt="">
-
-<h3 align="center">A passionate frontend and Backend developer from Dhaka, Bangladesh</h3>
 </br>
 <h1>Career Objective</h1>
 
