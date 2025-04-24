@@ -7,8 +7,8 @@
 <p>To gain confidence and fame using my potential in the field of “Web Development”, and express my innovative creative skills for self and company growth.</P>
 </br>
 
-<h1>Front End Development and Backend Development</h1>
- <p>☞ Sound knowledge of the Javascript,  HTML,  CSS, Bootstrap, Java Script, React Js, React Bootstrap, Material-UI, Es6, Node Js, Express, Mongo DB, Firebase, Sass etc </br>
+<h1>Django Developer</h1>
+ <p>☞ Sound knowledge of the Python,  Django, Django REST framework, HTML, CSS, BootStrap, Tailwind CSS, DaisyUI, JavaScrpt, C programming, C++ Programming, OOP, DSA , MySQL and also familiar with JAVA programming </br>
  <span>☞ Ability to develop and design webpages and websites to make them functional.</span> </br>
  <span>☞ Knowledge of the international web standards and protocols and experience to work with in the compliance.</span>
 
