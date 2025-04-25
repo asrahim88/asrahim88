@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 - C Programming
 - C++ Programming
 - Java Programming
-- JavaScript
 
 ### 🌐 Web Development
 - Django & Django Rest Framework
@@ -44,10 +43,28 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 
 ---
 
-## 📈 GitHub Stats
+## 🗓️ My Developer Journey
+
+- 🏁 **2020**: Started programming with C and C++
+- 🐍 **2021**: Learned Python and began exploring web development
+- 🌐 **2022**: Built my first full-stack Django application
+- 🧠 **2023**: Focused on mastering Django Rest Framework, DSA & clean code
+- 🚀 **2024–25**: Actively building, contributing & seeking global job opportunities
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ar-rahim&show_icons=true&theme=radical" alt="ar_rahim's GitHub stats" />
+</p>
+
+---
+
+## 🟩 Lifetime GitHub Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ar-rahim" alt="ar_rahim's GitHub Contribution Chart" />
 </p>
 
 ---
