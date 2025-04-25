@@ -19,12 +19,18 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 
 ### 👨‍💻 Programming Languages
 - Python (Expert)
-- C, C++
-- OOP & Data Structures
+- C Programming
+- C++ Programming
+- Java Programming
 
 ### 🌐 Web Development
 - Django & Django Rest Framework
 - HTML5, CSS3, Bootstrap, Tailwind CSS, DaisyUI
+
+### 🧠 Core Computer Science Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Problem Solving & Logic Building
 
 ### 🗄️ Database
 - MySQL
