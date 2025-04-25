@@ -61,6 +61,12 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-rahim&layout=compact&theme=radical" />
+</p>
+
+---
+
 ## 🟩 Lifetime GitHub Contributions
 
 <p align="center">
