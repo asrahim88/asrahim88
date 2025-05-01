@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 - 💻 C Programming
 - 💻 C++ Programming
 - ☕ Java Programming
+- ☕ JavaScript Programming
 
 ### 🌐 Web Development
 - 🧩 Django & Django REST Framework
