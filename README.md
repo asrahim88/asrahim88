@@ -39,19 +39,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 - ⚙️ Render, Heroku, Vercel, PythonAnywhere
 
 ---
-
-
-## 🗓️ My Developer Journey
-
-| Year     | Milestone                                                                 |
-|----------|---------------------------------------------------------------------------|
-| **2020** | Started with C and C++ Programming                                        |
-| **2021** | Learned Python and began building mini projects                           |
-| **2022** | Developed full-stack Django projects                                      |
-| **2023** | Mastered Django REST Framework and focused on clean code & DSA            |
-| **2024** | Working on advanced projects and real-world freelance apps                |
-
----
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asrahim88&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=asrahim88&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
@@ -62,13 +49,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asrahim88&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
----
-## 📈 Most Used Languages (with Breakdown)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-rahim&layout=compact&langs_count=10&theme=radical" />
-</p>
-
 ---
 
 ## 🟩 Contribution Heatmap
@@ -84,27 +64,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ar-rahim&theme=radical&custom_title=🔥%20Daily%20Coding%20Activity%20Graph" />
 </p>
-
----
-
-## 🔠 Language Progress Tracker (Advanced)
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ar-rahim&theme=radical&hide_border=false" />
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Languages & Projects
-
-- ✅ **Python**: REST APIs, Automation, Scripts, Web Apps  
-- ✅ **C/C++**: Problem Solving, DS Implementation  
-- ✅ **Java**: OOP Projects  
-- ✅ **HTML/CSS/JS**: UI Prototypes, Web Templates
 
 ---
 
