@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 ## 🟩 Contribution Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/007acc/ar-rahim" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/asrahim88" alt="GitHub Contribution Chart" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 ## ⏳ GitHub Activity Graph (Daily Progress)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ar-rahim&theme=radical&custom_title=🔥%20Daily%20Coding%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=asrahim88&theme=radical&custom_title=🔥%20Daily%20Coding%20Activity%20Graph" />
 </p>
 
 ---
