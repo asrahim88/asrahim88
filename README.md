@@ -62,9 +62,8 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 ## ⏳ GitHub Activity Graph (Daily Progress)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=asrahim88&theme=radical&custom_title=🔥%20Daily%20Coding%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asrahim88&theme=radical&custom_title=🔥%20Daily%20Coding%20Activity%20Graph" />
 </p>
-
 ---
 
 ## 📣 Let's Connect!
