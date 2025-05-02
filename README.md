@@ -43,6 +43,8 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asrahim88&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=asrahim88&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asrahim88&theme=radical&hide_border=false)
+https://github-readme-streak-stats.herokuapp.com/?user=asrahim88&theme=radical&hide_border=false&timestamp=APR2025
+
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 ---
