@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 ---
 
 ## 🛠️ Skills & Tech Stack
-
 ### 👨‍💻 Programming Languages
 - 🐍 Python (Expert)
 - 💻 C Programming
